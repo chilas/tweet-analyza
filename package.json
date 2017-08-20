@@ -1,0 +1,24 @@
+{
+  "name": "tweet-analyza",
+  "version": "0.1.0",
+  "description": "A sentiment analyzer for tweets to a particurlar handle.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gcp",
+    "google",
+    "nlp",
+    "twitter",
+    "sentiment",
+    "analysis",
+    "webtask",
+    "auth0"
+  ],
+  "author": "chilas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
