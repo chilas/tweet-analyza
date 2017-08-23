@@ -27,5 +27,5 @@ This is a really micro Tweet Sentiment Analyser that checks for negative tweets 
 * Select the **New mention of you** card on the next page
 * Search and select the WebHooks service
 * Select the **Make a web request**
-* In the URL section enter ```[WEBTASK_URL]?text=<<< {{Text}}>>>&from=<<< {{UserName}}>>>&url=<<< {{LinkToTweet}}>>>``` where [WEBTASK_URL] is the Url generated for your function by webtask.io and make sure the method is set to GET.
+* In the URL section enter ```[WEBTASK_URL]?text=<<<{{Text}}>>>&from=<<<{{UserName}}>>>&url=<<<{{LinkToTweet}}>>>``` where [WEBTASK_URL] is the Url generated for your function by webtask.io and make sure the method is set to GET.
 
