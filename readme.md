@@ -15,7 +15,7 @@ This is a really micro Tweet Sentiment Analyser that checks for negative tweets 
 * Copy the generated Webhook URL to a safe place.
 
 ### Webtask
-* Sign up to [webtask.io](webtask.io) and create a new empy function on your dashboard.
+* Sign up to [webtask.io](https://webtask.io) and create a new empy function on your dashboard.
 * Copy over the code from the _app.js_ file into your new function
 * You'd have to create two new secrets  
     *  **nlpApiKey:** which contains the api key for the nlp api
