@@ -51,5 +51,5 @@ function isNegative(secrets, tweetData) {
 }
 
 function handleErrors(caller, reason) {
-    console.log(`${caller} call failed: ${reason}`);
+    console.log(`${caller} failed: ${reason}`);
 }
